@@ -11,4 +11,4 @@ The PIR sensor detects movement in the room. If nothing is detected for 4 minute
 
 To stop it turning the TV back on again and going into an ON/OFF loop, the device is powered from the USB port on the back of the TV – which means when the TV is off, so is the device.
 
-![Fritzing Diagram](https://makermarcus.files.wordpress.com/2018/09/turnoffthetv_bb3.png?w=700&h=318&zoom=2)
+![Fritzing Diagram](turnOffTheTV_bb.png)
