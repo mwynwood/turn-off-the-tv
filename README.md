@@ -7,4 +7,6 @@ The PIR sensor detects movement in the room. If nothing is detected for 4 minute
 
 To stop it turning the TV back on again and going into an ON/OFF loop, the device is powered from the USB port on the back of the TV – which means when the TV is off, so is the device.
 
+Uses this library: (https://github.com/z3t0/Arduino-IRremote)
+
 ![Wiring Diagram](turnOffTheTV_bb.png)
