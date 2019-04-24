@@ -1,4 +1,4 @@
-# turn-off-the-tv
+# turnOffTheTV
 Turns the TV off if no motion is detected using an Arduino Nano, a PIR Sensor, and an Infrared LED.
 
 If you’ve got kids, you’re probably used to the TV playing to an empty room. They’ll turn it on, watch their show, and then just go and play with something else. This device turns the TV off after no motion has been detected for x minutes.
